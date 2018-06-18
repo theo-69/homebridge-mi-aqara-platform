@@ -2,10 +2,10 @@
 
 * WallButton new Name for both and double is now just one Button (left click > one click, right click > two click, both click > long click)
 * removed virtuell Switches
-* Fakegato Integration
 
 to do
 
+* Fakegato Integration
 * Integration of Gateway Sound
 
 ### For now install with
@@ -707,5 +707,5 @@ echo [] > cachedAccessories
 ## Version Logs
 
 * 1.0.2 removed fake Switch, changes DualWallSwitch left click > one click, right click > two click, both click > long click
-* 1.0.1 integrating Fakegato
+* 1.0.1 minimal changes
 * 1.0.0 first release after Fork
