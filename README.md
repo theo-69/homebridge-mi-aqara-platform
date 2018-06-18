@@ -25,7 +25,7 @@ Thanks for all previous developer and testers.
 
 **Note: I have only a part of these devices, so some devices don't have tested. If you find bugs, please submit them to [issues](https://github.com/thro-69/homebridge-mi-platform/issues).**
    
-**Please update to node 10.4.0.**   
+**Please update to node 8.11.3**   
  
 This repository contains the Aqara plugin for homebridge.   
 Aqara is a ZigBee gateway with a few sensors.   
